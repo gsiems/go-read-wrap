@@ -1,3 +1,5 @@
+[![GoDoc](https://godoc.org/github.com/gsiems/go-read-wrap/srw?status.svg)](https://godoc.org/github.com/gsiems/go-read-wrap/srw)
+
 # go-read-wrap
 
 go-read-wrap is a simple io.Reader wrapper
